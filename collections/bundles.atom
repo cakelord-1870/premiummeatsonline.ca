@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://premiummeatsonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://premiummeatsonline.ca/collections/bundles.atom"/>
+  <title>Slipacoff&apos;s Premium Meats</title>
+  <updated>2021-07-13T07:32:41-04:00</updated>
+  <author>
+    <name>Slipacoff&apos;s Premium Meats</name>
+  </author>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4784495755369</id>
+    <published>2021-07-13T07:32:41-04:00</published>
+    <updated>2021-07-13T07:32:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/fajita-dinner-for-4"/>
+    <title>Fajita Dinner Box</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_312384518.jpg?v=1610114836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1lb Fajita Marinated Chicken Breast</p>
+<p>1lb Fajita Marinated Beef</p>
+<p>1 Rack Cooked Back Ribs</p>
+<p>12pc Flour Tortilla</p>
+<p>2 x 4oz Pico De Gallo</p>
+<p>2 x 4oz Shredded Cheddar</p>
+<p>2 x 4oz Sour Cream</p>
+<p>2 x 2oz Guacamole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4784495755369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4738098397289</id>
+    <published>2021-07-02T14:25:41-04:00</published>
+    <updated>2021-07-02T14:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/cottage-box"/>
+    <title>Cottage Box</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/CottageBox1.png?v=1625745752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Enjoy this bundle at the Cottage or at home, it offers some of the best variety of meats for the BBQ. </div>
+<div></div>
+<div></div>
+<div>It Includes:</div>
+<ul>
+<li>4 x 10oz AAA Striploin</li>
+<li>4 x 4oz Mediterranean Chicken Breast (1lb)</li>
+<li>4 x Honey Garlic Sausages</li>
+<li>4 x Mild Italian Sausages</li>
+<li>8 x 4oz Angus Burger</li>
+<li>12 X Jumbo All Beef Hotdog</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4738098397289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4743412875369</id>
+    <published>2021-03-25T08:48:44-04:00</published>
+    <updated>2021-03-25T08:48:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/meat-lovers-box"/>
+    <title>Meat Lovers Box</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/8FC9A056-7B30-4D93-A851-37B8A1BF1962.png?v=1607528621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Dry Aged Tomahawk (40oz)</p>
+<p>2 x 10oz Austr. Wagyu NY</p>
+<p>2 x 10oz Austr. Wagyu Ribeye</p>
+<p>2 x 8oz Kobe Burger</p>
+<p>2 x 10oz Grain Fed Filet Migon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4743412875369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6536408858800</id>
+    <published>2021-02-24T16:40:05-05:00</published>
+    <updated>2021-02-24T16:40:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/date-night-box"/>
+    <title>Date Night Box</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/DateNightBox.png?v=1614202760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Enjoy a special dinner with your significant other. This box comes with everything needed to enjoy an upscale tenderloin roast dinner for two.  The Content of the box does require home preparation. detailed cooking instructions are included for a fast and easy experience. </p>
+<p><strong>Includes: </strong><br></p>
+<ul>
+<li>Beef Tenderloin Chateaubriand (1lb)</li>
+<li>Yukon Gold Mashed Potatoes (1lb)</li>
+<li>Fine Green Beans </li>
+<li>Red Wine Reduction Sauce</li>
+<li>Carrot Cake</li>
+</ul>
+<p data-mce-fragment="1" style="font-weight: 400;" data-mce-style="font-weight: 400;"><img height="744" width="575" src="https://cdn.shopify.com/s/files/1/0268/3393/files/Date_Night_Instructions_pdf_f3324ac1-71bf-4c3a-84fb-a6a19a406c0e_480x480.jpg?v=1615643984" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6536408858800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6030692679856</id>
+    <published>2020-10-30T15:13:01-04:00</published>
+    <updated>2020-10-30T15:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/work-from-home-box"/>
+    <title>Work From Home Box</title>
+    <s:type></s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMMarinatedBeefSouvlakiStake-2565-Edit.jpg?v=1609950740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1x3lb Garlic Dijon Pork Loin Roast</p>
+<p>2x2.5lb Grass Fed Ground Beef</p>
+<p>2x1kg Chicken Nuggets</p>
+<p>1x2lb Diced Beef</p>
+<p>1 Free Range Whole Chicken</p>
+<p>1x2lb Marinated Beef Souvlaki</p>
+<p>1x2lb Boneless Cross Rib Roast.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6030692679856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>11500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4801893826665</id>
+    <published>2020-09-28T14:01:14-04:00</published>
+    <updated>2020-09-28T14:01:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/keto-box"/>
+    <title>KETO Box</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/image_fb7dee40-f5c7-45df-a11c-7a052df6d82b.jpg?v=1601408957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 x 1lb Hormone free Lean Ground Beef</p>
+<p>8 x 6oz  Free-Range Boneless Skinless Chicken Breast</p>
+<p>1 x 5.5lb Slipacoff's own Smoked sliced Bacon</p>
+<p>6 x 8oz Ontario-Raised Boneless Pork Chops.</p>
+<p>4 x 12oz AAA Ontario-locally raised Corn-Fed Ribeye</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4801893826665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4767189631081</id>
+    <published>2020-08-04T13:56:22-04:00</published>
+    <updated>2020-08-04T13:56:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/eat-for-another-week-box"/>
+    <title>Eat For Another Week Box</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/04082020_PremiumMeats_eatforanotherweek2.jpg?v=1629116598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 X 10oz Hormone-Free Canadian raised Striploin steak</p>
+<p>4 X 8oz Ontario-raised Frenched Pork Chops</p>
+<p>4 X 8oz Hormone-free Angus burgers</p>
+<p>2 x 1lb Smoked Farmer Sausage</p>
+<p>1 x 2lb Free-range Mediterranean Marinated Boneless Chicken Breast.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4767189631081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4676428365929</id>
+    <published>2020-05-26T18:01:10-04:00</published>
+    <updated>2020-05-26T18:01:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/75th-anniversary-smoker-bundle-75"/>
+    <title>SMOKER&apos;S  BUNDLE BOX $225</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1107871982.jpg?v=1614280246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You can make incredible smoked meats in your own backyard, and Slipacoff's Premium Meats is the best place to start!  Included is (1) Ontario raised Pork boneless shoulder accompanied with (1) Ontario raised <span data-mce-fragment="1">St Louis Style Pork Side Rib, then to add the piece de resistance a AAA Canadian raised beef packer brisket. </span></p>
+<p><span data-mce-fragment="1">Also included is 2 LBS of hormone free lean ground beef, (6) Ontario farmed chicken legs, 4 of each of  Portuguese and honey garlic sausages.</span></p>
+<ul>
+<li><span color="#333333">1x Ontario raised Boneless pork Butt</span></li>
+<li><span color="#333333">1x Ontario raised St Louis Style Pork Side Rib</span></li>
+<li><span color="#333333">1x Canadian AAA Canadian packer brisket</span></li>
+<li>2x 1 lb Hormone free lean ground beef</li>
+<li>6x Ontario farmed from the Mennonite community chicken legs </li>
+<li><span color="#333333">4x Slipacoff's Honey Garlic Sausages</span></li>
+<li><span color="#333333">4x Slipacoff's Portuguese sausages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4676428365929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

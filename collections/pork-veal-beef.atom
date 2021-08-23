@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://premiummeatsonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://premiummeatsonline.ca/collections/pork-veal-beef.atom"/>
+  <title>Slipacoff&apos;s Premium Meats</title>
+  <updated>2021-08-11T15:40:10-04:00</updated>
+  <author>
+    <name>Slipacoff&apos;s Premium Meats</name>
+  </author>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6148382097584</id>
+    <published>2021-08-11T15:40:10-04:00</published>
+    <updated>2021-08-11T15:40:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-cooked-pork-back-ribs-9-99"/>
+    <title>- SALES EVENT - Baby Back Ribs &quot; Fully Cooked &amp; Sauced &quot;  $9</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/BackRibs_3.png?v=1628711433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meaty, tender ribs hickory smoked and then smothered in a sweet and sassy barbecue sauce for a taste sensation you won't soon forget. These fully cooked 2 Half-rack ribs are so easy to prepare... Just heat them on the grill or in the oven, serve them up, and watch everyone come back for seconds.<br></p>
+<ul>
+<li><span><span style="font-weight: 400;" data-mce-fragment="1">100% Canadian-Raised pork</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6148382097584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6809470599344</id>
+    <published>2021-08-09T11:28:19-04:00</published>
+    <updated>2021-08-09T11:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/slipacoffs-signature-thick-cut-bacon-1lb"/>
+    <title>Slipacoff&apos;s Signature Thick Cut Bacon (1lb)</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_558099103_1.jpg?v=1628522894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="os_sh4 os_ress os_style_lhf os_txt_p_d mar_b_m pad_l_s border_l"><b><i><br></i></b></div>
+<div class="os_sh4 os_ress os_style_lhf os_txt_p_d mar_b_m pad_l_s border_l">
+<p>Slipacoff's Premium Meats smoked-cut Bacon is cured and smoked the old-fashioned way, and then cut. Each slice is carefully selected and guarantee you Top Quality. This is a serious upgrade from other bacon you are used to seeing in stores.</p>
+<p><br></p>
+</div>
+<ul class="os_style_l os_ress mar_b_m">
+<li>Juicy &amp; packed with flavor</li>
+<li>Carefully selected slices</li>
+<li>Pan fry or bake in the oven</li>
+<li>Great for BLTs, burgers &amp; more</li>
+<li>1 LB pack sealed </li>
+<li>10-12 slices per pound</li>
+</ul>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6809470599344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6593314062512</id>
+    <published>2021-07-15T14:08:05-04:00</published>
+    <updated>2021-07-15T14:08:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/european-sausages"/>
+    <title>- SALES EVENT - Sausages European (BUY ONE GET ONE FREE)</title>
+    <s:type>Sausages</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/Sausage_3.png?v=1622660962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Sausages<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Sausages are Hand-made by our expert butchers, made in house with %100 pork and our own special blends or spices. These are upscale as we use only Ontario natural farm raised pork. This Deal is Buy 1 Get 1 FREE. Packaged in 4's.</p>
+<p><span style="text-decoration: underline;">Here are the types Available:</span></p>
+<p><strong>Hot Italian</strong> - Made with our special blend of Italian seasoning, but with a bit of heat</p>
+<p><strong>Sweet Italian</strong> - Made with our special blend of Italian seasoning. This is a mild sausage</p>
+<p><strong>Portuguese</strong> - Made with a blend of Portuguese spices This is a spicy sausage.  </p>
+<p><strong>Chorizo</strong> - Made with a blend of Spanish spices. this is a spicy sausage. </p>
+<p><strong>Honey Garlic</strong> - Mild and Sweet This is a Sausage for everyone.</p>
+<p>The additional package will be included in your order but may not show in your checkout cart. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6593314062512</id>
+      <title>Hot Italian</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6593314062512</id>
+      <title>Sweet Italian</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6593314062512</id>
+      <title>Portuguese</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6593314062512</id>
+      <title>Chorizo</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6593314062512</id>
+      <title>Honey Garlic</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6702026195120</id>
+    <published>2021-07-09T11:11:26-04:00</published>
+    <updated>2021-07-09T11:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/smoked-pork-chops-bone-in-kassler"/>
+    <title>Smoked Pork Chops bone-in Kassler</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/iStock-1222245978_be811bdf-37a3-4ded-a18b-7365db76115b.jpg?v=1622638098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            4.90 - 11.90
+            <a href="https://premiummeatsonline.ca/products/smoked-pork-chops-bone-in-kassler">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Our German Smoked Pork Chops come from the center cut loin and are cured and smoked for exceptional flavor. Around Amana, they are known as Kassler Rippchen. They're fully cooked, so simply heat and serve. Ideal for broiling, pan frying, or grilling.</span></p>
+<p><span data-mce-fragment="1"> The secret to perfectly cooked Smoked Pork Chops is not to overcook them. Place chops on a pre-heated (medium heat) grill for about 2 1/2 to 3 minutes. Turn and grill for an additional 1 - 1 1/2 minutes. You may also use a griddle or skillet brushed with oil to cook them. Just heat through and serve, there is nothing to it!</span></p>
+<p><span data-mce-fragment="1"><br data-mce-fragment="1">Tip: Once you've turned them, baste the pork chops with Apple sauce. It adds a sweet and savory element to their already fabulous taste.<br data-mce-fragment="1">Pork chops can be stored in a freezer in their original packaging for up to 3 months.</span></p>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneless</s:tag>
+    <s:tag>cut</s:tag>
+    <s:tag>fresh</s:tag>
+    <s:tag>hand cut</s:tag>
+    <s:tag>huge</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>loin</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>white meat</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>5 to 6 oz</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>7 to 8 oz</title>
+      <s:price currency="CAD">5.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>8 to 9 oz</title>
+      <s:price currency="CAD">6.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>9 to 10 oz</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>10 to 11 oz</title>
+      <s:price currency="CAD">7.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>11 to 12 oz</title>
+      <s:price currency="CAD">8.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>12 to 13 oz</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>13 to 14 oz</title>
+      <s:price currency="CAD">9.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6702026195120</id>
+      <title>16 to 17 oz</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6161643602096</id>
+    <published>2021-04-15T08:43:09-04:00</published>
+    <updated>2021-04-15T08:43:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-pork-chops-boneless"/>
+    <title>BONELESS PORK CHOPS</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMPorcBonelessChop-2515.jpg?v=1618488256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            2.99 - 3.98
+            <a href="https://premiummeatsonline.ca/products/sales-event-pork-chops-boneless">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Our Boneless Center cut pork chops are hand cut from pork loins, to order.  These chops pack a ton of flavor. One of our leanest pork cuts! Give these beautiful cuts your favorite dry rub or marinade.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"> </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% Raised Local Ontario Pork</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Naturally raised</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free from hormones and antibiotics</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Packaged individually sealed</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneless</s:tag>
+    <s:tag>cut</s:tag>
+    <s:tag>fresh</s:tag>
+    <s:tag>hand cut</s:tag>
+    <s:tag>huge</s:tag>
+    <s:tag>jumbo</s:tag>
+    <s:tag>loin</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>white meat</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6161643602096</id>
+      <title>2 x 4oz</title>
+      <s:price currency="CAD">3.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6161643602096</id>
+      <title>6oz</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6161643602096</id>
+      <title>8oz</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4580277780585</id>
+    <published>2021-01-16T09:02:20-05:00</published>
+    <updated>2021-01-16T09:02:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/19-95-sales-event-5-5lb-fresh-smoked-sliced-bacon"/>
+    <title>Slipacoff&apos;s Signature Bacon &quot;Maple Smoked&quot;</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1053696977.jpg?v=1590066789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="os_sh4 os_ress os_style_lhf os_txt_p_d mar_b_m pad_l_s border_l"><b><i><br></i></b></div>
+<div class="os_sh4 os_ress os_style_lhf os_txt_p_d mar_b_m pad_l_s border_l">
+<p>Slipacoff's Premium Meats smoked-cut Bacon is cured and smoked the old-fashioned way, and then cut. Each slice is carefully selected and guarantee you Top Quality. This is a serious upgrade from other bacon you are used to seeing in stores.</p>
+<p> </p>
+</div>
+<ul class="os_style_l os_ress mar_b_m">
+<li>Maple smoked</li>
+<li>Juicy &amp; packed with flavor</li>
+<li>Carefully selected slices</li>
+<li>Pan fry or bake in the oven</li>
+<li>Great for BLTs, burgers &amp; more</li>
+<li>5.5 LBS bulk-pack sealed </li>
+</ul>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4580277780585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4726325903465</id>
+    <published>2020-07-07T10:41:01-04:00</published>
+    <updated>2020-07-07T10:41:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/marinated-pork-2lb-pkg"/>
+    <title>Boneless Chops - Marinated (2Lbs)</title>
+    <s:type></s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMMarinatedPorkAsian-2581.jpg?v=1609951274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Back by popular demand! With real Slipacoff's Premium Meats Asian-Thai style cuts of boneless pork loin,  2 lbs of marinated chops with the perfect blend of seasonings. </p>
+<ul class="os_style_l os_ress mar_b_m" data-mce-fragment="1">
+<li data-mce-fragment="1">100 % Canadian-Raised Hormone free Ontario pork</li>
+<li data-mce-fragment="1">Aged at least 28 days for tenderness &amp; flavor</li>
+<li data-mce-fragment="1">Perfect Asian-Thai marinade</li>
+<li data-mce-fragment="1">Hand packed and vacuum sealed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4726325903465</id>
+      <title>Souvlaki</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/164219869</id>
+    <published>2020-06-12T10:41:10-04:00</published>
+    <updated>2020-06-12T10:41:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/pork-tenderloin"/>
+    <title>Pork Tenderloin Ontario-Raised &quot;Packed X &apos;2&apos;s&quot;</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/mignonPorc.jpg?v=1603292109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cut from the heart of the tenderloin for extra tenderness, Slipacoff's Premium Meat's  Pork Tenderloin is a nice change of pace with a tantalizing flavor that can only be found in real Canadian-raised pork. It's the perfect cut for celebrating a special occasion or just treating yourself to something delicious.</p>
+<p> </p>
+<ul class="os_style_l os_ress mar_b_m">
+<li>Tender and flavorful</li>
+<li>Extra-lean, heart-healthy protein</li>
+<li>Excellent grilled or roasted</li>
+<li>Perfect size for two</li>
+<li><span>100% Ontario-Raised pork</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/164219869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/334752681</id>
+    <published>2014-06-24T22:51:32-04:00</published>
+    <updated>2014-06-24T22:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/skin-on-pork-belly"/>
+    <title>Pork Belly Skin On</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1467425702.jpg?v=1620415557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A fresh whole Ontario Pork Belly, rib out.  Great for making bacon or braised pork belly.  This entire piece has the skin still on and weighs approximately 10-12 pounds.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/334752681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/206963685</id>
+    <published>2014-01-07T20:39:00-05:00</published>
+    <updated>2014-01-07T20:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/pork"/>
+    <title>Pork Shoulder butt ( For pulled Pork )</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/image_93b21459-d5be-4202-a2d0-f11710da24cb.jpg?v=1441088530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Raised from local Ontario growers, our hand selected boneless pork shoulder will put a smile on our competition smoking customers or just for that smoky family gathering in the back yard for that special pulled pork. Approx. 8lb each.</p>
+<p> </p>
+<ul>
+<li><span><span style="font-weight: 400;" data-mce-fragment="1">100% Ontario-raised pork</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bbq</s:tag>
+    <s:tag>boneless</s:tag>
+    <s:tag>pork</s:tag>
+    <s:tag>roast</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>white meat</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/206963685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/166350660</id>
+    <published>2013-10-21T13:47:00-04:00</published>
+    <updated>2013-10-21T13:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/bacon-sliced-double-smoked"/>
+    <title>Bacon Double Smoked Thick Cut</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMBacon-2272-Prt.jpg?v=1609943316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cut fresh from super high-quality, locally sourced pork belly, then salt-cured in-house for one week before being hickory smoked, our thick-sliced bacon is … well … it’s </span><i><span>something else</span></i><span>. Each bite has an excellent balance of salt and smoke factor, making this bacon great as a standalone breakfast snack or accompaniment to your favorite sandwich, pasta, or even salad.</span></p>
+<ul data-mce-fragment="1">
+<li><span>Locally sourced pork belly</span></li>
+<li><span>Hand-rubbed in cure (salt, dextrose, sodium erythorbate, spice &amp; spice extracts, sodium nitrite</span></li>
+<li><span>Garlic</span></li>
+<li><span>Natural smoke</span></li>
+<li><span>Come sealed packaged in 1/2 LB</span></li>
+<li><span>Cook to serve!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/166350660</id>
+      <title>1/2LB Package</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/166349420</id>
+    <published>2013-10-21T13:21:00-04:00</published>
+    <updated>2013-10-21T13:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/frenched-rack-of-pork"/>
+    <title>Pork Rack - Frenched Bones</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMPorcRack-2509.jpg?v=1609951807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            67.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frenched rack of pork</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/166349420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158174811</id>
+    <published>2013-09-15T19:35:00-04:00</published>
+    <updated>2013-09-15T19:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/pork-chops-frenched-style"/>
+    <title>Signature Pork Chops - &quot;Frenched Style&quot;</title>
+    <s:type>Pork</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMPorcFrenchChop-2514.jpg?v=1609951664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Pork<br>
+        <strong>Price: </strong>
+            7.50 - 8.75
+            <a href="https://premiummeatsonline.ca/products/pork-chops-frenched-style">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Our frenched pork chops are hand cut from pork loins, to order. Frenched on the bone for better presentation, these chops pack a ton of flavor. One of our leanest pork cuts! Give these beautiful cuts your favorite dry rub or marinade. Shipped fresh. Never frozen.  Average: 10-12 oz.</span></p>
+<h6 data-mce-fragment="1"><span data-mce-fragment="1"></span></h6>
+<h6 data-mce-fragment="1"><br></h6>
+<p data-mce-fragment="1"><span data-mce-fragment="1">We like to give these pork chops a simple marinade before frying them up in a hot skillet. You can also roast pork chops in the oven.</span></p>
+<h6 data-mce-fragment="1"><br></h6>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">100% Canadian pork</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158174811</id>
+      <title>8oz</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158174811</id>
+      <title>10oz</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

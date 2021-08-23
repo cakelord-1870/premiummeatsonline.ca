@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://premiummeatsonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://premiummeatsonline.ca/collections/beef-new.atom"/>
+  <title>Slipacoff&apos;s Premium Meats</title>
+  <updated>2021-03-24T10:41:23-04:00</updated>
+  <author>
+    <name>Slipacoff&apos;s Premium Meats</name>
+  </author>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/160068025</id>
+    <published>2021-03-24T10:41:23-04:00</published>
+    <updated>2021-03-24T10:41:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-beef-brisket"/>
+    <title>Brisket Beef Canadian AAA</title>
+    <s:type>Beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1326751490.jpg?v=1616596863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Beef<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With both the flat-cut and the point, this AAA grade whole beef brisket from Slipacoff's Premium Meats has been aged precisely at 21 days to naturally maximize the tenderness you're going to need for your barbecue. Its 12 lbs. or richly marbled perfection that's as impressive at home as it is at professional smoking competitions.</p>
+<p> </p>
+<ul class="os_style_l os_ress mar_b_m">
+<li>Whole 12 lb. Packer grade beef brisket</li>
+<li>Perfect for professional smokers and hobbyists</li>
+<li>Includes both the flat-cut and point</li>
+<li>Aged at least 21 days for extra-tender texture</li>
+<li>Butcher-cut from hand-selected beef</li>
+<li>Includes 100% satisfaction guarantee<br>
+</li>
+<li>Excellent source of protein</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beef</s:tag>
+    <s:tag>boneless</s:tag>
+    <s:tag>brisket</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>roast</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/160068025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4726684713065</id>
+    <published>2020-12-29T09:16:28-05:00</published>
+    <updated>2020-12-29T09:16:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/fully-trimmed-canadian-wagyu-brisket-raw"/>
+    <title>Brisket Wagyu Australian MB 6-7</title>
+    <s:type>Beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryWagyuwholeBrisket-2256-Edit.jpg?v=1609950210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Beef<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Right from the Outback, This is next level cross breed Wagyu from Andrews Tajima. Full blood sire and Angus Dam. Graded 7-9 these Australian packer briskets s are so well marbled, never mind the olive oil or butter to sear them. It will do so on its own .</p>
+<p data-mce-fragment="1">They will blow you away. Very hard to find something else to beat other than A5 Japanese Kobe for more than double the price. Smoking this piece is for the ELITE. </p>
+<p data-mce-fragment="1">Serious players ONLY!</p>
+<p data-mce-fragment="1">Beware highly addictive. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Australian wagyu beef (MB Grade 6-7)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Halal approved</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Hormone Free</span></li>
+<li data-mce-fragment="1">Average 5-6 kg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4726684713065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/160069811</id>
+    <published>2020-07-16T14:48:28-04:00</published>
+    <updated>2020-07-16T14:48:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-beef-tenderloin-1"/>
+    <title>Beef Tenderloin Whole AAA</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1043066197.jpg?v=1604946746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Whole Canadian Raised Beef Tenderloin weighs approximately (4-5lb avg).  </p>
+<p><span>It doesn’t get much better than the most sought after cut of meat from the highest grade Canadian cattle. Our Canadian AAA whole tenderloins are aged for thirty days for that next-level tenderness for which tenderloin is known. Each whole tenderloin is selected by hand, and our expert butchers make sure you get a beautiful filet mignon each and every time. </span><span> </span><span data-mce-fragment="1">Average: 4-5 lbs each</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meat</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/160069811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://premiummeatsonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://premiummeatsonline.ca/collections/burgers-1.atom"/>
+  <title>Slipacoff&apos;s Premium Meats</title>
+  <updated>2021-07-21T20:58:39-04:00</updated>
+  <author>
+    <name>Slipacoff&apos;s Premium Meats</name>
+  </author>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6635806851248</id>
+    <published>2021-07-21T20:58:39-04:00</published>
+    <updated>2021-07-21T20:58:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-angus-burger-4oz"/>
+    <title>- SALES EVENT - Angus Burger 4oz (20 patties)</title>
+    <s:type>Burgers</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/AngusBurger_6.png?v=1628710997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Burgers<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Burgers made by hand by our expert butchers. When you order from Slipacoff's Premium Meats, we’ll put your burgers together to order, using only 100% AAA Canadian-raised beef, Free from hormones or antibiotics. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Slipacoff's Premium Meats Angus burger will take you to next level as we only use whole muscles in the process unlike other stores. This might be the best way to impress your family, friends or neighbors. </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">100% ground Canadian AAA beef</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Naturally raised</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free from hormones and antibiotics</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">20 x 4 oz Portions</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6635806851248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6655253610672</id>
+    <published>2021-05-05T15:50:30-04:00</published>
+    <updated>2021-05-05T15:50:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-green-valley-canada-plant-based-tandoori-burgers-8pc-free-mango-salsa"/>
+    <title>Green Valley Canada Plant-Based Tandoori Burgers (8pc) (FREE MANGO SALSA)</title>
+    <s:type>Plant based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/TandooriBurgers_4.png?v=1622660885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant based<br>
+        <strong>Price: </strong>
+            7.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our plant-based beef has the look, feel and taste of traditional ground chicken. It tastes great, cooks faster than traditional ground chicken and all natural. Now with our homemade blend of tandoori spices. </span></p>
+<p>Made with Plant-Based Alternative Chicken Ground, which is a soy-based food product and with bread crumbs too.  High in protein and fiber.  The taste and texture are deliciously like actual chicken burgers.  Heat and serve your way - BBQ, Fry/Grill or Broil.  Remember, flip right once browned...it cooks nice and quick.  Serve with your favorite toppings and buns. Enjoy!</p>
+<p>Now comes with our homemade Golden Raisin, Ginger, Mango Salsa. </p>
+<p> </p>
+<p>Ingredients:  Soy protein, salt, modified cellulose, yeast extract (salt), locust bean gum and spices.</p>
+<p>Sold in Packages of 8.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6655253610672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.92</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/3584808878185</id>
+    <published>2021-04-22T07:39:08-04:00</published>
+    <updated>2021-04-22T07:39:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/plant-based-burger-4oz"/>
+    <title>Green Valley Canada Plant Based beef Burger 4oz (8pc)</title>
+    <s:type>Plant based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/BeefBurger.jpg?v=1608399696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant based<br>
+        <strong>Price: </strong>
+            7.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Our plant-based beef has the look, feel and taste of traditional beef. It tastes great, cooks faster than traditional beef and all natural.</span></p>
+<p><br>Plant base burgers are soy based. They are 100% made from plants. Each one is  4oz with 8 per order.  Super easy to prepare.  You can BBQ them, or fry them or grill them, your choice.  Remember to flip them once brown.  They cook really quickly....Top with your favorite items. Serve on a bun and Enjoy!</p>
+<p><span>Ingredients: Soy protein product, sea salt, modified cellulose, yeast extract, locust bean gum, onion powder, caramel, beet powder, spices, smoke flavor.</span></p>
+<iframe src="https://www.youtube.com/embed/oCha_w8FIh0" height="450" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bbq</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/3584808878185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.92</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158047229</id>
+    <published>2021-01-08T10:31:57-05:00</published>
+    <updated>2021-01-08T10:31:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/kobe-burger"/>
+    <title>Burger &quot;Kobe&quot; Wagyu</title>
+    <s:type>Burgers</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/premiumburger.jpg?v=1610119904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Burgers<br>
+        <strong>Price: </strong>
+            6.50 - 8.50
+            <a href="https://premiummeatsonline.ca/products/kobe-burger">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Eat the burger that will blow you away. this juicy, buttery and so tender beefy Wagyu hand made patty. Ground from 100% fresh Australian beef, our burgers are begging for a hot grill and hungry crowd. Beware highly addictive.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158047229</id>
+      <title>6oz</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158047229</id>
+      <title>8oz</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4676432265321</id>
+    <published>2020-05-26T18:05:19-04:00</published>
+    <updated>2020-05-26T18:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/75th-anniversary-special-steak-spice-burger-4oz"/>
+    <title>Burgers Steak Spice blend (4oz)</title>
+    <s:type>Burgers</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/13102020_PremiumMeats_SteakSpiceBurger.jpg?v=1602597632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Burgers<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Burgers made by hand by our expert butchers. When you order from Slipacoff's Premium Meats, we’ll put your burgers together to order, using only 100% AAA Canadian-raised beef, Free from hormones or antibiotics. At the grinding process, we then add a dash of Montreal steak spices to the blend as the grind tumble in our mixers. </span></p>
+<p><span data-mce-fragment="1">The end result will be that nice Montreal flavor throughout the burger as you bite into it. Nowhere else you can get this. This might be the best way to impress your family, friends or neighbors. </span></p>
+<ul>
+<li><span>100% ground Canadian AAA beef</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4676432265321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158040903</id>
+    <published>2013-09-14T17:04:00-04:00</published>
+    <updated>2013-09-14T17:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/prime-rib-burger-seasoned"/>
+    <title>Prime Rib Burger (Seasoned)</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMBurgerPrimeRib-2276-Prt.jpg?v=1609943406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            3.00 - 4.00
+            <a href="https://premiummeatsonline.ca/products/prime-rib-burger-seasoned">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Prime Rib burger is made from freshly ground Prime Rib and seasoned with some Garlic, Salt, Pepper and dehydrated onion</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158040903</id>
+      <title>6oz</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158040903</id>
+      <title>8oz</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158040525</id>
+    <published>2013-09-14T17:01:00-04:00</published>
+    <updated>2013-09-14T17:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-angus-burger"/>
+    <title>Burgers Angus AAA</title>
+    <s:type>Burgers</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMBurger-2278-Prt_d0220637-d8a1-4b77-8f9e-0c17cc4f4c6a.jpg?v=1609944140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Burgers<br>
+        <strong>Price: </strong>
+            2.50 - 3.50
+            <a href="https://premiummeatsonline.ca/products/aaa-angus-burger">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Burgers made by hand by our expert butchers. When you order from Slipacoff's Premium Meats, we’ll put your burgers together to order, using only 100% AAA Canadian-raised beef, Free from hormones or antibiotics. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Slipacoff's Premium Meats Angus burger will take you to next level as we only use whole muscles in the process unlike other stores. This might be the best way to impress your family, friends or neighbors. </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">100% ground Canadian AAA beef</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Naturally raised</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158040525</id>
+      <title>6oz</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158040525</id>
+      <title>8oz</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

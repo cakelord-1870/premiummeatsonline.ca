@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://premiummeatsonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://premiummeatsonline.ca/collections/plant-based-new.atom"/>
+  <title>Slipacoff&apos;s Premium Meats</title>
+  <updated>2021-06-09T15:41:47-04:00</updated>
+  <author>
+    <name>Slipacoff&apos;s Premium Meats</name>
+  </author>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6625344061616</id>
+    <published>2021-06-09T15:41:47-04:00</published>
+    <updated>2021-06-09T15:41:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-green-valley-canada-plant-based-breaded-tandoori-burgers-8pc"/>
+    <title>Green Valley Canada Plant-Based Honey BBQ Chicken Burger (4 for $10)</title>
+    <s:type>Plant based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/HoneyBBQChickenBurger_1.png?v=1624474228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant based<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our plant-based beef has the look, feel and taste of traditional ground chicken. It tastes great, cooks faster than traditional ground chicken and all natural. Now with our homemade blend of tandoori spices. </span></p>
+<p>Made with Plant-Based Alternative Chicken Ground, which is a soy-based food product and with bread crumbs too.  High in protein and fiber.  The taste and texture are deliciously like actual chicken burgers.  Heat and serve your way - BBQ, Fry/Grill or Broil.  Remember, flip right once browned...it cooks nice and quick.  Serve with your favorite toppings and buns. Enjoy!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6625344061616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6655253610672</id>
+    <published>2021-05-05T15:50:30-04:00</published>
+    <updated>2021-05-05T15:50:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-green-valley-canada-plant-based-tandoori-burgers-8pc-free-mango-salsa"/>
+    <title>Green Valley Canada Plant-Based Tandoori Burgers (8pc) (FREE MANGO SALSA)</title>
+    <s:type>Plant based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/TandooriBurgers_4.png?v=1622660885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant based<br>
+        <strong>Price: </strong>
+            7.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our plant-based beef has the look, feel and taste of traditional ground chicken. It tastes great, cooks faster than traditional ground chicken and all natural. Now with our homemade blend of tandoori spices. </span></p>
+<p>Made with Plant-Based Alternative Chicken Ground, which is a soy-based food product and with bread crumbs too.  High in protein and fiber.  The taste and texture are deliciously like actual chicken burgers.  Heat and serve your way - BBQ, Fry/Grill or Broil.  Remember, flip right once browned...it cooks nice and quick.  Serve with your favorite toppings and buns. Enjoy!</p>
+<p>Now comes with our homemade Golden Raisin, Ginger, Mango Salsa. </p>
+<p> </p>
+<p>Ingredients:  Soy protein, salt, modified cellulose, yeast extract (salt), locust bean gum and spices.</p>
+<p>Sold in Packages of 8.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6655253610672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.92</s:price>
+      <s:sku></s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/3584808878185</id>
+    <published>2021-04-22T07:39:08-04:00</published>
+    <updated>2021-04-22T07:39:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/plant-based-burger-4oz"/>
+    <title>Green Valley Canada Plant Based beef Burger 4oz (8pc)</title>
+    <s:type>Plant based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/BeefBurger.jpg?v=1608399696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant based<br>
+        <strong>Price: </strong>
+            7.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Our plant-based beef has the look, feel and taste of traditional beef. It tastes great, cooks faster than traditional beef and all natural.</span></p>
+<p><br>Plant base burgers are soy based. They are 100% made from plants. Each one is  4oz with 8 per order.  Super easy to prepare.  You can BBQ them, or fry them or grill them, your choice.  Remember to flip them once brown.  They cook really quickly....Top with your favorite items. Serve on a bun and Enjoy!</p>
+<p><span>Ingredients: Soy protein product, sea salt, modified cellulose, yeast extract, locust bean gum, onion powder, caramel, beet powder, spices, smoke flavor.</span></p>
+<iframe src="https://www.youtube.com/embed/oCha_w8FIh0" height="450" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bbq</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/3584808878185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.92</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6126886518960</id>
+    <published>2021-03-18T09:01:18-04:00</published>
+    <updated>2021-03-18T09:01:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/plant-based-beef-ground"/>
+    <title>Green Valley Canada Plant-Based Beef Ground ( 2 x 1 lbs)</title>
+    <s:type>Plant based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/BeefGround.jpg?v=1608323484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant based<br>
+        <strong>Price: </strong>
+            7.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our plant-based beef has the look, feel and taste of traditional beef. It tastes great, cooks faster than traditional beef and all natural.</span></p>
+<p> Plant-Based Alternative Beef Ground is a soy-based product.  High in protein and fibre and it's gluten free!  The taste, texture and cooking method mirror actual ground beef yet it cooks much quicker.  Versatile to use in so many recipes such as tacos, spaghetti, chili, lasagna, shepherd's pie and more.</p>
+<p>Ingredients: Soy protein product, sea salt, modified cellulose, yeast extract, locust bean gum, onion powder, caramel, beet powder, spices, smoke flavour.</p>
+<div class="inline-videos">
+<iframe height="450" src="https://www.youtube.com/embed/qs4qvKa8gTM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <iframe height="450" src="https://www.youtube.com/embed/QDXKWsEw0-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6126886518960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6126892548272</id>
+    <published>2021-01-07T14:28:25-05:00</published>
+    <updated>2021-01-07T14:28:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/plant-based-ready-made-chili"/>
+    <title>Green Valley Canada Plant Based Ready Made Chili</title>
+    <s:type>Plant-based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/Chilli.jpg?v=1610110952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant-based<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our plant-based beef has the look, feel and taste of traditional beef. It tastes great, cooks faster than traditional beef and all natural.</span></p>
+<p> </p>
+<p>This "Heat &amp; Serve" food product is made with Plant-Based Alternative Beef Ground which is soy based.  High protein and fiber and gluten free.  This recipe is made with onions, green peppers, garlic and many more spices.  If super spicy Chili is your thing, simply add more chili powder when heating and simmering.  Delicious with garlic bread or when served atop a baked potato or with your favorite pasta.  Even great inside squash bowls.  Yummy topped with sour cream and cilantro too.</p>
+<p>Base Ingredients: <span data-mce-fragment="1">Ingredients: Soy protein product, sea salt, modified cellulose, yeast extract, locust bean gum, onion powder, caramel, beet powder, spices, smoke flavor.</span></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6126892548272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6086958416048</id>
+    <published>2020-12-03T12:38:28-05:00</published>
+    <updated>2020-12-03T12:38:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/green-valley-plant-based-tourtiere"/>
+    <title>Green Valley Canada Plant Based Tourtiere</title>
+    <s:type>Plant-based</s:type>
+    <s:vendor>Green Valley Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/pork___beef_tourtiere.jpg?v=1608326409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Valley Canada<br>
+        <strong>Type: </strong>Plant-based<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This plant based tourtiere is amazing.  Finally a meatless meat pie!! </p>
+<p>Ingredients: Soy protein product, sea salt, modified cellulose, yeast extract, locust bean gum, onion powder, caramel, beet powder, spices, smoke flavour, water, onion, celery, garlic, potato, all spice (fennel seed, anise seed, ginger (contains sulphites), licorice root, cinnamon and cloves), salt, pepper.</p>
+<p><span>PIE SHELL INGREDIENTS: BLEACHED ENRICHED WHEAT FLOUR </span><br><span>(WHEAT FLOUR, NIACIN, IRON, THIAMIN MONONITRATE, RIBOFLAVIN, </span><br><span>FOLIC ACID), VEGETABLE OIL SHORTENING (CANOLA, MODIFIED PALM AND </span><br><span>PALM KERNEL), WATER, CORN STARCH, DEXTROSE, SALT, </span><br><span>WHEAT STARCH, SODIUM BICARBONATE, CALCIUM PROPIONATE AND </span><br><span>SODIUM METABISULFITE (PRESERVATIVES), SOYBEAN OIL, L-CYSTEINE </span><br><span>HYDROCHLORIDE, TRICALCIUM PHOSPHATE, ASCORBIC ACID, AMYLASE.</span></p>
+<p>Cooking instructions: Preheat oven to 350 degrees.  Cook 35-45 minutes until hot.  Let sit for 10 minutes.  Slice and serve.</p>
+<div class="inline-videos"><iframe height="450" src="https://www.youtube.com/embed/QDXKWsEw0-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6086958416048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

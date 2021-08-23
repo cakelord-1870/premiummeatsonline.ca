@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://premiummeatsonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://premiummeatsonline.ca/collections/steaks-new.atom"/>
+  <title>Slipacoff&apos;s Premium Meats</title>
+  <updated>2021-08-18T15:57:26-04:00</updated>
+  <author>
+    <name>Slipacoff&apos;s Premium Meats</name>
+  </author>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6644481687728</id>
+    <published>2021-08-18T15:57:26-04:00</published>
+    <updated>2021-08-18T15:57:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-porterhouse-steak-20-oz-aaa"/>
+    <title>- SALES EVENT - Porterhouse Steak 20 oz AAA</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/Porterhouse_10.png?v=1629316638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An amazing 20 oz Porterhouse from Canadian-raised AAA beef. This masterpiece of a cut is the first slice of our 35 day aged short loins. </p>
+<p>Divided by a T bone on one side you get Tenderloin and the other side the Striploin. This piece is for major league but easy for anyone to enjoy.</p>
+<p><span data-mce-fragment="1">This will bring to you the best of both worlds. This piece will make any meat lover salivate and want to share this cut and live the moment with family or friends</span></p>
+<p>Grilled on the BBQ, indirect heat, cast iron seared or sous-vide.</p>
+<ul>
+<li><span>100% AAA Canadian short loin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6644481687728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4403786907753</id>
+    <published>2021-08-18T11:57:54-04:00</published>
+    <updated>2021-08-18T11:57:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/canadian-aaa-tomahawk-steak-aged"/>
+    <title>Canadian Prime Tomahawk Steak (74oz)</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryAgTomahawk-2184-Edit-Prt.jpg?v=1609947767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">We at Slipacoff's Premium Meats promise and guarantee you that every single piece Canadian-raised PRIME grade long boned Tomahawk steaks will be aged a minimum of 35 days.<br></p>
+<p data-mce-fragment="1">Slowly giving each piece more and more flavor and more and more tenderness.</p>
+<p data-mce-fragment="1">On the grill, cast iron seared or sous-vide are the best options.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% Canadian aged full racks of beef</span></span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">74 oz tomahawk</span></span></li>
+<li data-mce-fragment="1">This is a limited quatity item</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Example Tag</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4403786907753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6201355042992</id>
+    <published>2021-08-05T07:56:24-04:00</published>
+    <updated>2021-08-05T07:56:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/japanese-kobe-striploin-steaks"/>
+    <title>Striploin Steaks A5 Japanese  &quot;Kobe&quot;</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1551262853_1001bfee-acab-4e7b-a6a8-1d2ec94af70c.jpg?v=1620414003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            104.50 - 148.50
+            <a href="https://premiummeatsonline.ca/products/japanese-kobe-striploin-steaks">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The best of the best, our Japanese Wagyu striploin are rated “A5,” the highest possible rating given to beef in Japan. What does that mean for you? Intense intramuscular marbling that melts while your steak cooks. Deep, rich red color. Tenderness and flavor that simply cannot be matched.</span></p>
+<p>A5 Japanese Kobe Striploin steak.  Imported Directly from Japan.</p>
+<p> Beware, Highly addictive</p>
+<ul>
+<li><span>100% A5 Japanese wagyu beef</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201355042992</id>
+      <title>9 -10oz</title>
+      <s:price currency="CAD">104.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201355042992</id>
+      <title>10 -11 oz</title>
+      <s:price currency="CAD">115.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201355042992</id>
+      <title>11-12 oz</title>
+      <s:price currency="CAD">126.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201355042992</id>
+      <title>12-13 oz</title>
+      <s:price currency="CAD">137.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201355042992</id>
+      <title>13-14 oz</title>
+      <s:price currency="CAD">148.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6648166219952</id>
+    <published>2021-07-21T20:57:00-04:00</published>
+    <updated>2021-07-21T20:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sous-vide-ready-flat-iron-steak-asian-ginger-honey-glazed"/>
+    <title>Flat Iron Steak AAA (Asian ginger honey glazed)</title>
+    <s:type>beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/MarinatedFlatIron.png?v=1626869126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>beef<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This item is ready to be cooked on the grill or Sous-Vide (Thermocirculator)</strong></p>
+<p><strong>Regular cooking:</strong></p>
+<p>Sear in a hot frying pan for 2 minutes on each side. Leave to rest for 2 minutes before cutting.</p>
+<p> </p>
+<p><strong>Cooking with thermocirculator (Sous-vide)</strong><br></p>
+<p>30 minutes at 133°F in the thermocirculator. Sear in a very hot frying pan for 10 seconds on each side</p>
+<p><strong>A bit of Knowledge about sous-vide</strong></p>
+<p><span data-mce-fragment="1"></span><span data-mce-fragment="1">Sous vide (pronounced </span><em data-mce-fragment="1">“soo veed”)<span data-mce-fragment="1"> </span></em><span data-mce-fragment="1">is a method of cooking that relies on precision temperature control to create the perfect doneness every time. When it comes to cooking steak, cooking sous vide is a game-changer. Cooking sous vide helps ensure that your meat is cooked to a safe temperature without ever overcooking. </span></p>
+<p> </p>
+<p><span>Slipacoff's Premium Meats is proud to introduce to all its clientele our </span><strong>NEW</strong><span> Signature line of Sous-Vide ready meats. Developed by our own Executive Chef, we have come up with the perfect recipe for you and your family to enjoy without all the hassles and fusses about looking to find the right recipe for you.</span></p>
+<p> </p>
+<p><strong><span data-mce-fragment="1">AAA Flat Iron steak "Sushi" steak for its popularity in the Asian cuisine.</span>  (Sous-Vide)</strong><br></p>
+<p>You are now ready to serve in your own home what you would order in a High-end steakhouses for a fraction of the cost. </p>
+<ul>
+<li><span>100% AAA Canadian beef  flat iron steak</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p> Ingredients:</p>
+<ul>
+<li><span>AAA 5 oz flat-iron steak</span></li>
+<li>Soy sauce</li>
+<li>Vegetable oil</li>
+<li>Minced garlic chopped</li>
+<li>Black pepper</li>
+<li>Honey</li>
+<li>Cayenne</li>
+<li>Minced ginger </li>
+</ul>
+<p> </p>
+<p><strong>A bit of Knowledge about sous-vide</strong></p>
+<p><span data-mce-fragment="1"></span><span data-mce-fragment="1">Sous vide (pronounced </span><em data-mce-fragment="1">“soo veed”)<span data-mce-fragment="1"> </span></em><span data-mce-fragment="1">is a method of cooking that relies on precision temperature control to create the perfect doneness every time. When it comes to cooking steak, cooking sous vide is a game-changer. Cooking sous vide helps ensure that your meat is cooked to a safe temperature without ever overcooking. </span></p>
+<p> </p>
+<p><strong>  Regular cooking:</strong></p>
+<p>Sear in a hot frying pan for 2 minutes on each side. Leave to rest for 2 minutes before cutting.</p>
+<p> </p>
+<p><strong>Cooking with thermocirculator (Sous-vide)</strong></p>
+<p>30 minutes at 135F in the thermocirculator. Sear in a very hot frying pan for 10 seconds on each side.</p>
+<p> </p>
+<p>Sous vide, which means “under vacuum” in French, refers to the process of vacuum-sealing food in a bag, then cooking it to a very precise temperature in a water bath. This technique produces results that are impossible to achieve through any other cooking method.</p>
+<p>Sous vide cooking is much easier than you might think, and usually involved three simple steps:</p>
+<p>1. Attach your precision cooker to a pot of water and set the time and temperature according to your desired level of doneness.</p>
+<p>2. Put your food in a sealable bag and clip it to the side of the pot.</p>
+<p>3. Finish by searing, grilling, or broiling the food to add a crispy, golden exterior layer.</p>
+<p>Sous vide cooking utilizes precise temperature control with circulation to produce results that you can’t achieve through any other cooking technique. The reason–when using traditional methods of cooking, you don’t have control over heat and temperature. Consequently, it’s very difficult and time consuming to consistently cook great food. Food ends up overcooked on the outside, with only a small portion in the center that is cooked to the temperature you want. Food loses flavor, overcooks easily, and ends up with a dry, chewy texture.</p>
+<p>With precise temperature control in the kitchen, sous vide provides the following benefits:</p>
+<p><strong>Consistency.</strong><span> </span>Because you cook your food to a precise temperature for a precise amount of time, you can expect very consistent results.</p>
+<p><strong>Taste.</strong><span> </span>Food cooks in its juices. This ensures that the food is moist, juicy and tender.</p>
+<p><strong>Waste reduction.</strong><span> </span>Traditionally prepared food dries out and results in waste. For example, on average, traditionally cooked steak loses up to 40% of its volume due to drying out. Steak cooked via precision cooking, loses none of its volume.</p>
+<p><strong>Flexibility.</strong><span> </span>Traditional cooking can require your constant attention. Precision cooking brings food to an exact temperature and holds it. There is no worry about overcooking.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6648166219952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6185467510960</id>
+    <published>2021-07-14T15:48:57-04:00</published>
+    <updated>2021-07-14T15:48:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-prime-grade-canadian-tomahawk-steak-40-44-oz-dry-aged-70-days-to-perfection-limit-2-per-order-55-each"/>
+    <title>SALES EVENT - Aged PRIME Grade Canadian Tomahawk Steak</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/Tomahawk_6.png?v=1629316579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">We at Slipacoff's Premium Meats promise and guarantee you that every single piece Canadian-raised PRIME grade long boned Tomahawk steaks will be aged a minimum of 35 days.<br></p>
+<p data-mce-fragment="1">Slowly giving each piece more and more flavor and more and more tenderness.</p>
+<p data-mce-fragment="1">On the grill, cast iron seared or sous-vide are the best options.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% Canadian aged full racks of beef</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Example Tag</s:tag>
+    <s:tag>meat</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6185467510960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6655249711280</id>
+    <published>2021-07-14T15:48:01-04:00</published>
+    <updated>2021-07-14T15:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-42-oz-porterhouse-steak-aaa-fiorentina"/>
+    <title>- SALES EVENT - 42 oz Porterhouse Steak AAA</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PorterhouseFiorentina_3.png?v=1626292071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nicknamed " Fiorentina " 42 OZ  Porterhouse steak or Bistecca Alla Fiorentina comes from Canadian-raised AAA beef. This masterpiece of a cut is the first slice of our 35 day aged short loins. </p>
+<p>Divided by a T bone on one side you get Tenderloin and the other side the Striploin. This piece is for major league but easy for anyone to enjoy.</p>
+<p><span data-mce-fragment="1">This will bring to you the best of both worlds. This piece will make any meat lover salivate and want to share this cut and live the moment with family or friends</span></p>
+<p>Grilled on the BBQ, indirect heat, cast iron seared or sous-vide.</p>
+<ul>
+<li><span>100% AAA Canadian short loin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6655249711280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6655279857840</id>
+    <published>2021-07-14T15:40:44-04:00</published>
+    <updated>2021-07-14T15:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sales-event-striploin-steak-aaa-10-oz-new-york-cut-6-for-75"/>
+    <title>- SALES EVENT -  Striploin Steak AAA 10 oz ($9 each)</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/10ozAAAStriploinSteak_1.png?v=1628766355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">One of our most popular cuts, The Striploin Steak is hand-selected AAA graded beef. We age our Striploins for more than 35 days.</p>
+<p data-mce-fragment="1">Also know as New York Strip, this cut from the loin is one of the three most popular and flavorful steaks you can buy, alongside tenderloin and ribeye. Striploin doesn't have the fat content you might find in a rib steak or ribeye, so if you are looking for something on the leaner side, but still a premium cut of beef, this cut is the way to go.</p>
+<p data-mce-fragment="1">We recommend the grill or cast iron searing for best results. Simple and easy !</p>
+<p data-mce-fragment="1"> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">100% AAA Canadian beef </span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Local &amp; Naturally raised</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6655279857840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6201341804720</id>
+    <published>2021-07-08T14:38:53-04:00</published>
+    <updated>2021-07-08T14:38:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/japanese-kobe-steaks"/>
+    <title>Ribeye Steaks A5 Japanese Kobe</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1551262853.jpg?v=1620415623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            82.50 - 148.50
+            <a href="https://premiummeatsonline.ca/products/japanese-kobe-steaks">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <span data-mce-fragment="1">The best of the best, our Japanese Wagyu Ribeye are rated “A5,” the highest possible rating given to beef in Japan. What does that mean for you? Intense intramuscular marbling that melts while your steak cooks. Deep, rich red color. Tenderness and flavor that simply cannot be matched.</span><br></p>
+<p><span data-mce-fragment="1">A5 Japanese Kobe Ribeye steak. Imported Directly from Japan.</span></p>
+<p>Beware, Highly addictive</p>
+<ul>
+<li><span>100% A5 Japanese wagyu beef</span></li>
+</ul>
+<h6><br></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201341804720</id>
+      <title>7-8 oz</title>
+      <s:price currency="CAD">82.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201341804720</id>
+      <title>9-10 oz</title>
+      <s:price currency="CAD">104.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201341804720</id>
+      <title>11-12 oz</title>
+      <s:price currency="CAD">126.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6201341804720</id>
+      <title>13-14 oz</title>
+      <s:price currency="CAD">148.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6678865215664</id>
+    <published>2021-07-06T11:24:54-04:00</published>
+    <updated>2021-07-06T11:24:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/maitre-dhotel-striploin-steak-aaa-sous-vide-ready"/>
+    <title>MAITRE D&apos;HOTEL butter STRIPLOIN STEAK AAA</title>
+    <s:type>beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1334255639.jpg?v=1621961466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>beef<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong>This item is ready to be cooked on the grill or Sous-Vide (Thermocirculator)</strong></p>
+<p><strong>Regular cooking:</strong></p>
+<p>Sear in a hot frying pan for 2 minutes on each side. Leave to rest for 2 minutes before cutting.</p>
+<p> </p>
+<p><strong>Cooking with thermocirculator (Sous-vide)</strong><br></p>
+<p>30 minutes at 133°F in the thermocirculator. Sear in a very hot frying pan for 10 seconds on each side</p>
+<p><span data-mce-fragment="1">Slipacoff's Premium Meats is proud to introduce to all its clientele our </span><strong data-mce-fragment="1">NEW</strong><span data-mce-fragment="1"> Signature line of Sous-Vide ready meats. Developed by our own Executive Chef, we have come up with the perfect recipe for you and your family to enjoy without all the hassles and fusses about looking to find the right recipe for you.</span> </p>
+<p><strong>Maitre d'Hotel butter 8 oz Striploin Steak AAA  (Sous-Vide)</strong><br></p>
+<p>Called in the industry as "the Strip steak" for its popularity in the high-end  steakhouses.</p>
+<p>You are now ready to serve in your own home what you would order in a High-end steakhouses for a fraction of the cost. </p>
+<ul>
+<li><span>100% AAA Canadian beef striploin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p> Ingredients:</p>
+<ul>
+<li><span>AAA 8 oz Striploin steak</span></li>
+<li>Unsalted butter</li>
+<li>Lemon juice</li>
+<li>salt</li>
+<li>fresh parley </li>
+<li>Black cracked pepper</li>
+<li>Worcestershire</li>
+<li>cayenne pepper</li>
+</ul>
+<p> </p>
+<p><strong>A bit of Knowledge about sous-vide</strong></p>
+<p><span data-mce-fragment="1"></span><span data-mce-fragment="1">Sous vide (pronounced </span><em data-mce-fragment="1">“soo veed”)<span data-mce-fragment="1"> </span></em><span data-mce-fragment="1">is a method of cooking that relies on precision temperature control to create the perfect doneness every time. When it comes to cooking steak, cooking sous vide is a game-changer. Cooking sous vide helps ensure that your meat is cooked to a safe temperature without ever overcooking. </span></p>
+<p><br></p>
+<p>Sous vide, which means “under vacuum” in French, refers to the process of vacuum-sealing food in a bag, then cooking it to a very precise temperature in a water bath. This technique produces results that are impossible to achieve through any other cooking method.</p>
+<p>Sous vide cooking is much easier than you might think, and usually involved three simple steps:</p>
+<p>1. Attach your precision cooker to a pot of water and set the time and temperature according to your desired level of doneness.</p>
+<p>2. Put your food in a sealable bag and clip it to the side of the pot.</p>
+<p>3. Finish by searing, grilling, or broiling the food to add a crispy, golden exterior layer.</p>
+<p>Sous vide cooking utilizes precise temperature control with circulation to produce results that you can’t achieve through any other cooking technique. The reason–when using traditional methods of cooking, you don’t have control over heat and temperature. Consequently, it’s very difficult and time consuming to consistently cook great food. Food ends up overcooked on the outside, with only a small portion in the center that is cooked to the temperature you want. Food loses flavor, overcooks easily, and ends up with a dry, chewy texture.</p>
+<p>With precise temperature control in the kitchen, sous vide provides the following benefits:</p>
+<p><strong>Consistency.</strong><span> </span>Because you cook your food to a precise temperature for a precise amount of time, you can expect very consistent results.</p>
+<p><strong>Taste.</strong><span> </span>Food cooks in its juices. This ensures that the food is moist, juicy and tender.</p>
+<p><strong>Waste reduction.</strong><span> </span>Traditionally prepared food dries out and results in waste. For example, on average, traditionally cooked steak loses up to 40% of its volume due to drying out. Steak cooked via precision cooking, loses none of its volume.</p>
+<p><strong>Flexibility.</strong><span> </span>Traditional cooking can require your constant attention. Precision cooking brings food to an exact temperature and holds it. There is no worry about overcooking.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6678865215664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6689292714160</id>
+    <published>2021-05-25T12:40:43-04:00</published>
+    <updated>2021-05-25T12:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/sage-celtic-blue-cheese-butter-tenderloin-steak-aaa"/>
+    <title>Sage &amp; Celtic Blue cheese butter TENDERLOIN STEAK AAA</title>
+    <s:type>beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMSteakBlueCheeseER5_6517.jpg?v=1621962284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>beef<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><strong>This item is ready to be cooked on the grill or Sous-Vide (Thermocirculator)</strong></p>
+<p><strong>Regular cooking:</strong></p>
+<p>Sear in a hot frying pan for 2 minutes on each side. Leave to rest for 2 minutes before cutting.</p>
+<p> </p>
+<p><strong>Cooking with thermocirculator (Sous-vide)</strong><br></p>
+<p>30 minutes at 133°F in the thermocirculator. Sear in a very hot frying pan for 10 seconds on each side</p>
+<p><span> </span><span>Slipacoff's Premium Meats is proud to introduce to all its clientele our </span><strong>NEW</strong><span> Signature line of Sous-Vide ready meats. Developed by our own Executive Chef, we have come up with the perfect recipe for you and your family to enjoy without all the hassles and fusses about looking to find the right recipe for you.</span></p>
+<p> </p>
+<p><strong>Sage &amp; Celtic blue cheese butter 6 oz Tenderloin Steak AAA  (Sous-Vide)</strong><br></p>
+<p>Called in the industry as the "Filet Mignon" steak for its popularity in the high-end French cuisine.</p>
+<p>You are now ready to serve in your own home what you would order in a High-end steakhouses for a fraction of the cost. </p>
+<ul>
+<li><span>100% AAA Canadian beef tenderloin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p> Ingredients:</p>
+<ul>
+<li><span>AAA 6 oz Tenderloin steak</span></li>
+<li>Unsalted Butter</li>
+<li>Celtic Blue cheese</li>
+<li>Worcestershire sauce</li>
+<li>Kosher salt</li>
+<li>Black cracked pepper</li>
+<li>Fresh sage </li>
+</ul>
+<p> </p>
+<p><strong>A bit of Knowledge about sous-vide</strong></p>
+<p><span data-mce-fragment="1"></span><span data-mce-fragment="1">Sous vide (pronounced </span><em data-mce-fragment="1">“soo veed”)<span data-mce-fragment="1"> </span></em><span data-mce-fragment="1">is a method of cooking that relies on precision temperature control to create the perfect doneness every time. When it comes to cooking steak, cooking sous vide is a game-changer. Cooking sous vide helps ensure that your meat is cooked to a safe temperature without ever overcooking. </span></p>
+<p>Sous vide, which means “under vacuum” in French, refers to the process of vacuum-sealing food in a bag, then cooking it to a very precise temperature in a water bath. This technique produces results that are impossible to achieve through any other cooking method.</p>
+<p>Sous vide cooking is much easier than you might think, and usually involved three simple steps:</p>
+<p>1. Attach your precision cooker to a pot of water and set the time and temperature according to your desired level of doneness.</p>
+<p>2. Put your food in a sealable bag and clip it to the side of the pot.</p>
+<p>3. Finish by searing, grilling, or broiling the food to add a crispy, golden exterior layer.</p>
+<p>Sous vide cooking utilizes precise temperature control with circulation to produce results that you can’t achieve through any other cooking technique. The reason–when using traditional methods of cooking, you don’t have control over heat and temperature. Consequently, it’s very difficult and time consuming to consistently cook great food. Food ends up overcooked on the outside, with only a small portion in the center that is cooked to the temperature you want. Food loses flavor, overcooks easily, and ends up with a dry, chewy texture.</p>
+<p>With precise temperature control in the kitchen, sous vide provides the following benefits:</p>
+<p><strong>Consistency.</strong><span> </span>Because you cook your food to a precise temperature for a precise amount of time, you can expect very consistent results.</p>
+<p><strong>Taste.</strong><span> </span>Food cooks in its juices. This ensures that the food is moist, juicy and tender.</p>
+<p><strong>Waste reduction.</strong><span> </span>Traditionally prepared food dries out and results in waste. For example, on average, traditionally cooked steak loses up to 40% of its volume due to drying out. Steak cooked via precision cooking, loses none of its volume.</p>
+<p><strong>Flexibility.</strong><span> </span>Traditional cooking can require your constant attention. Precision cooking brings food to an exact temperature and holds it. There is no worry about overcooking.</p>
+<p> </p>
+<p><br></p>
+<p> </p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6689292714160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6689276788912</id>
+    <published>2021-05-25T12:36:13-04:00</published>
+    <updated>2021-05-25T12:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/lemon-rosemary-garlic-tenderloin-steak-aaa"/>
+    <title>Lemon rosemary garlic butter TENDERLOIN STEAK AAA</title>
+    <s:type>beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMSteakRoesmaryER5_6509.jpg?v=1621962665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>beef<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><strong>This item is ready to be cooked on the grill or Sous-Vide (Thermocirculator)</strong></p>
+<p><strong>Regular cooking:</strong></p>
+<p>Sear in a hot frying pan for 2 minutes on each side. Leave to rest for 2 minutes before cutting.</p>
+<p> </p>
+<p><strong>Cooking with thermocirculator (Sous-vide)</strong><br></p>
+<p>30 minutes at 133°F in the thermocirculator. Sear in a very hot frying pan for 10 seconds on each side</p>
+<p><span> </span><span>Slipacoff's Premium Meats is proud to introduce to all its clientele our </span><strong>NEW</strong><span> Signature line of Sous-Vide ready meats. Developed by our own Executive Chef, we have come up with the perfect recipe for you and your family to enjoy without all the hassles and fusses about looking to find the right recipe for you.</span></p>
+<p> </p>
+<p><strong>Lemon Rosemary Garlic butter 6 oz Tenderloin Steak AAA  (Sous-Vide)</strong><br></p>
+<p>Called in the industry as the "Filet Mignon" steak for its popularity in the high-end French cuisine.</p>
+<p>You are now ready to serve in your own home what you would order in a High-end steakhouses for a fraction of the cost. </p>
+<ul>
+<li><span>100% AAA Canadian beef tenderloin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p> Ingredients:</p>
+<ul>
+<li><span>AAA 6 oz Tenderloin steak</span></li>
+<li>Unsalted Butter</li>
+<li>Fresh chopped rosemary</li>
+<li>Lemon juice</li>
+<li>Kosher salt</li>
+<li>Black cracked pepper</li>
+<li>Chopped garlic</li>
+</ul>
+<p> </p>
+<p><strong>A bit of Knowledge about sous-vide</strong></p>
+<p><span data-mce-fragment="1"></span><span data-mce-fragment="1">Sous vide (pronounced </span><em data-mce-fragment="1">“soo veed”)<span data-mce-fragment="1"> </span></em><span data-mce-fragment="1">is a method of cooking that relies on precision temperature control to create the perfect doneness every time. When it comes to cooking steak, cooking sous vide is a game-changer. Cooking sous vide helps ensure that your meat is cooked to a safe temperature without ever overcooking. </span></p>
+<p>Sous vide, which means “under vacuum” in French, refers to the process of vacuum-sealing food in a bag, then cooking it to a very precise temperature in a water bath. This technique produces results that are impossible to achieve through any other cooking method.</p>
+<p>Sous vide cooking is much easier than you might think, and usually involved three simple steps:</p>
+<p>1. Attach your precision cooker to a pot of water and set the time and temperature according to your desired level of doneness.</p>
+<p>2. Put your food in a sealable bag and clip it to the side of the pot.</p>
+<p>3. Finish by searing, grilling, or broiling the food to add a crispy, golden exterior layer.</p>
+<p>Sous vide cooking utilizes precise temperature control with circulation to produce results that you can’t achieve through any other cooking technique. The reason–when using traditional methods of cooking, you don’t have control over heat and temperature. Consequently, it’s very difficult and time consuming to consistently cook great food. Food ends up overcooked on the outside, with only a small portion in the center that is cooked to the temperature you want. Food loses flavor, overcooks easily, and ends up with a dry, chewy texture.</p>
+<p>With precise temperature control in the kitchen, sous vide provides the following benefits:</p>
+<p><strong>Consistency.</strong><span> </span>Because you cook your food to a precise temperature for a precise amount of time, you can expect very consistent results.</p>
+<p><strong>Taste.</strong><span> </span>Food cooks in its juices. This ensures that the food is moist, juicy and tender.</p>
+<p><strong>Waste reduction.</strong><span> </span>Traditionally prepared food dries out and results in waste. For example, on average, traditionally cooked steak loses up to 40% of its volume due to drying out. Steak cooked via precision cooking, loses none of its volume.</p>
+<p><strong>Flexibility.</strong><span> </span>Traditional cooking can require your constant attention. Precision cooking brings food to an exact temperature and holds it. There is no worry about overcooking.</p>
+<p> </p>
+<p><br></p>
+<p> </p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6689276788912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6678740467888</id>
+    <published>2021-05-20T12:39:47-04:00</published>
+    <updated>2021-05-20T12:39:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/truffle-tenderloin-steak-aaa-sous-vide"/>
+    <title>Truffle Butter TENDERLOIN STEAK AAA</title>
+    <s:type>beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMSteakBlackTruffleER5_6516.jpg?v=1621962249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>beef<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><strong>This item is ready to be cooked on the grill or Sous-Vide (Thermocirculator)</strong></p>
+<p><strong>Regular cooking:</strong></p>
+<p>Sear in a hot frying pan for 2 minutes on each side. Leave to rest for 2 minutes before cutting.</p>
+<p> </p>
+<p><strong>Cooking with thermocirculator (Sous-vide)</strong><br></p>
+<p>30 minutes at 133°F in the thermocirculator. Sear in a very hot frying pan for 10 seconds on each side</p>
+<p><span> </span><span>Slipacoff's Premium Meats is proud to introduce to all its clientele our </span><strong>NEW</strong><span> Signature line of Sous-Vide ready meats. Developed by our own Executive Chef, we have come up with the perfect recipe for you and your family to enjoy without all the hassles and fusses about looking to find the right recipe for you.</span></p>
+<p> </p>
+<p><strong>Truffle butter 6 oz Tenderloin Steak AAA  (Sous-Vide)</strong><br></p>
+<p>Called in the industry as the "Filet Mignon" steak for its popularity in the high-end French cuisine.</p>
+<p>You are now ready to serve in your own home what you would order in a High-end steakhouses for a fraction of the cost. </p>
+<ul>
+<li><span>100% AAA Canadian beef tenderloin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p> Ingredients:</p>
+<ul>
+<li><span>AAA 6 oz Tenderloin steak</span></li>
+<li>Truffle paste</li>
+<li>Butter</li>
+<li>Black cracked pepper</li>
+<li>Truffle oil</li>
+<li>Olive oil</li>
+</ul>
+<p> </p>
+<p><strong>A bit of Knowledge about sous-vide</strong></p>
+<p><span data-mce-fragment="1"></span><span data-mce-fragment="1">Sous vide (pronounced </span><em data-mce-fragment="1">“soo veed”)<span data-mce-fragment="1"> </span></em><span data-mce-fragment="1">is a method of cooking that relies on precision temperature control to create the perfect doneness every time. When it comes to cooking steak, cooking sous vide is a game-changer. Cooking sous vide helps ensure that your meat is cooked to a safe temperature without ever overcooking. </span></p>
+<p>Sous vide, which means “under vacuum” in French, refers to the process of vacuum-sealing food in a bag, then cooking it to a very precise temperature in a water bath. This technique produces results that are impossible to achieve through any other cooking method.</p>
+<p>Sous vide cooking is much easier than you might think, and usually involved three simple steps:</p>
+<p>1. Attach your precision cooker to a pot of water and set the time and temperature according to your desired level of doneness.</p>
+<p>2. Put your food in a sealable bag and clip it to the side of the pot.</p>
+<p>3. Finish by searing, grilling, or broiling the food to add a crispy, golden exterior layer.</p>
+<p>Sous vide cooking utilizes precise temperature control with circulation to produce results that you can’t achieve through any other cooking technique. The reason–when using traditional methods of cooking, you don’t have control over heat and temperature. Consequently, it’s very difficult and time consuming to consistently cook great food. Food ends up overcooked on the outside, with only a small portion in the center that is cooked to the temperature you want. Food loses flavor, overcooks easily, and ends up with a dry, chewy texture.</p>
+<p>With precise temperature control in the kitchen, sous vide provides the following benefits:</p>
+<p><strong>Consistency.</strong><span> </span>Because you cook your food to a precise temperature for a precise amount of time, you can expect very consistent results.</p>
+<p><strong>Taste.</strong><span> </span>Food cooks in its juices. This ensures that the food is moist, juicy and tender.</p>
+<p><strong>Waste reduction.</strong><span> </span>Traditionally prepared food dries out and results in waste. For example, on average, traditionally cooked steak loses up to 40% of its volume due to drying out. Steak cooked via precision cooking, loses none of its volume.</p>
+<p><strong>Flexibility.</strong><span> </span>Traditional cooking can require your constant attention. Precision cooking brings food to an exact temperature and holds it. There is no worry about overcooking.</p>
+<p> </p>
+<p><br></p>
+<p> </p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6678740467888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6107954839728</id>
+    <published>2021-04-06T15:08:54-04:00</published>
+    <updated>2021-04-06T15:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/wagyu-medallion"/>
+    <title>Eye of round Steaks &quot;Tournedos&quot; Australian Wagyu MB 5-7</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryWagyuMedallionInside-2233-Prt.jpg?v=1617735462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            10.95 - 14.95
+            <a href="https://premiummeatsonline.ca/products/wagyu-medallion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Right from the Outback, This is next level cross breed Wagyu from Andrews Tajima. Full blood sire and Angus Dam. Graded 5-7 these Australian Wagyu Tournedos are so well marbled, never mind the olive oil or butter to sear them. It will do so on its own .</p>
+<p data-mce-fragment="1">They will blow you away. Very hard to find something else to beat other than A5 Japanese Kobe for more than double the price. Smoking this piece is for the ELITE. </p>
+<p data-mce-fragment="1">Serious players ONLY!</p>
+<p data-mce-fragment="1">Beware highly addictive. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Australian wagyu beef (MB Grade 5-7)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Halal approved</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Hormone Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6107954839728</id>
+      <title>6oz</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6107954839728</id>
+      <title>8oz</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/157854545</id>
+    <published>2021-03-12T08:05:27-05:00</published>
+    <updated>2021-03-12T08:05:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-beef-tenderloin"/>
+    <title>Tenderloin Steak  AAA Beef (Filet Mignon)</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryAAATenderloin-2206-Edit-Crop.jpg?v=1615554319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            18.00 - 30.00
+            <a href="https://premiummeatsonline.ca/products/aaa-beef-tenderloin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So tender and flavorful, our 35 day aged Canadian-raised AAA tenderloin steaks are considered as one of the Top Steaks. Carefully skinned and trimmed by our expert butchers our Filet Mignon is lean and mean .</p>
+<p>This cut is best either Grilled, cast iron seared or cooked Japanese style (Hibachi) on a flat top. Cook rapidly rare to medium rare for optimal experience.</p>
+<ul>
+<li><span>100% AAA Canadian beef tenderloin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/157854545</id>
+      <title>6oz</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/157854545</id>
+      <title>8oz</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/157854545</id>
+      <title>10oz</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/6110654398640</id>
+    <published>2020-12-03T08:51:47-05:00</published>
+    <updated>2020-12-03T08:51:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/copy-of-kobe-medallion-steaks"/>
+    <title>Tenderloin Steaks A5 Japanese Kobe</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_1913803141_1.jpg?v=1620415593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            56.00 - 181.50
+            <a href="https://premiummeatsonline.ca/products/copy-of-kobe-medallion-steaks">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The best of the best, our Japanese wagyu Tenderloin is rated “A5,” the highest possible rating given to beef in Japan. What does that mean for you? Intense intramuscular marbling that melts while your steak cooks. Deep, rich red color. Tenderness and flavor that simply cannot be matched.</span></p>
+<p> A5 Japanese Kobe Tenderloin steak.  Imported Directly from Japan.</p>
+<p> Beware, Highly addictive</p>
+<ul>
+<li><span>100% A5 Japanese wagyu beef</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>3-4oz</title>
+      <s:price currency="CAD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>4-5oz</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>5-6oz</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>6-7oz</title>
+      <s:price currency="CAD">113.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>7-8oz</title>
+      <s:price currency="CAD">128.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>10-11 oz</title>
+      <s:price currency="CAD">181.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/6110654398640</id>
+      <title>9-10 oz</title>
+      <s:price currency="CAD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4767189631081</id>
+    <published>2020-08-04T13:56:22-04:00</published>
+    <updated>2020-08-04T13:56:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/eat-for-another-week-box"/>
+    <title>Eat For Another Week Box</title>
+    <s:type>Boxes</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/04082020_PremiumMeats_eatforanotherweek2.jpg?v=1629116598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Boxes<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 X 10oz Hormone-Free Canadian raised Striploin steak</p>
+<p>4 X 8oz Ontario-raised Frenched Pork Chops</p>
+<p>4 X 8oz Hormone-free Angus burgers</p>
+<p>2 x 1lb Smoked Farmer Sausage</p>
+<p>1 x 2lb Free-range Mediterranean Marinated Boneless Chicken Breast.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4767189631081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/4643373219945</id>
+    <published>2020-05-13T11:50:36-04:00</published>
+    <updated>2020-05-13T11:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/australian-waygu-ribeye-steak-10oz"/>
+    <title>Ribeye Steaks Wagyu Australian</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryWagyuRibeye-2220-Edit-Prt.jpg?v=1609949120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            49.00 - 79.00
+            <a href="https://premiummeatsonline.ca/products/australian-waygu-ribeye-steak-10oz">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Right from the Outback, This is next level cross breed Wagyu from Andrews Tajima. Full blood sire and Angus Dam. Graded 7-9 these Australian ribeye steaks are so well marbled, never mind the olive oil or butter to sear them. It will do so on its own .</p>
+<p>They will blow you away. Very hard to find something else to beat other than A5 Japanese Kobe for more than double the price. Salt &amp; pepper need to say no more.</p>
+<p>Grill on the Barbie, cast iron seared or sous-vide this ribeye is best</p>
+<p>Beware. Highly addictive. </p>
+<ul>
+<li><span>Australian wagyu beef (MB Grade 7-9)</span></li>
+<li><span>Halal approved</span></li>
+<li><span>Hormone Free</span></li>
+</ul>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4643373219945</id>
+      <title>10oz</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4643373219945</id>
+      <title>12oz</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4643373219945</id>
+      <title>14oz</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/4643373219945</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/10164684743</id>
+    <published>2020-05-13T11:50:36-04:00</published>
+    <updated>2020-05-13T11:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/australian-wagyu"/>
+    <title>Striploin Steak Wagyu Australian</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryWagyuStriploin-2217-Edit-Prt.jpg?v=1609949774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            49.00 - 59.00
+            <a href="https://premiummeatsonline.ca/products/australian-wagyu">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Right from the Outback, This is next level cross breed Wagyu from Andrews Tajima. Full blood sire and Angus Dam. Graded 7-9 these Australian Striploin steaks are so well marbled, never mind the olive oil or butter to sear them. It will do so on its own .</p>
+<p data-mce-fragment="1">They will blow you away. Very hard to find something else to beat other than A5 Japanese Kobe for more than double the price. Salt &amp; pepper need to say no more.</p>
+<p data-mce-fragment="1">Grill on the Barbie, cast iron seared or sous-vide this striploin is simply the best</p>
+<p data-mce-fragment="1">Beware. Highly addictive. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Australian wagyu beef (MB Grade 7-9)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Halal approved</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Hormone Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>meat</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/10164684743</id>
+      <title>10oz</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/10164684743</id>
+      <title>12oz</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/206053921</id>
+    <published>2014-01-06T14:35:00-05:00</published>
+    <updated>2014-01-06T14:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-boneless-short-rib-steak"/>
+    <title>Short Rib Steak Canadian AAA Boneless</title>
+    <s:type>Beef</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/Joule-short-rib-steak.jpg?v=1441086417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Beef<br>
+        <strong>Price: </strong>
+            8.75 - 10.75
+            <a href="https://premiummeatsonline.ca/products/aaa-boneless-short-rib-steak">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This hearty, immensely tender cut of beef positively explodes with flavor. Our master butchers have carved these pieces of tender boneless Canadian AAA beef short rib in traditional English style and remove the bones. Cook very slowly by braising or smoking for rich and tender results.</span></p>
+<ul class="os_style_l os_ress mar_b_m" data-mce-fragment="1">
+<li data-mce-fragment="1">Canadian AAA Boneless short ribs (Braising Ribs)</li>
+<li data-mce-fragment="1">Aged at least 28 days for extra-tender texture</li>
+<li data-mce-fragment="1">Butcher-cut in a traditional English style</li>
+<li data-mce-fragment="1">100% satisfaction guarantee<br data-mce-fragment="1">
+</li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/206053921</id>
+      <title>6oz</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/206053921</id>
+      <title>8oz</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/10266951815</id>
+    <published>2013-10-11T10:19:00-04:00</published>
+    <updated>2013-10-11T10:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/copy-of-aaa-top-sirloin-steak-baseball-cut2"/>
+    <title>Flat Iron Steak AAA</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/shutterstock_289359887.jpg?v=1619723431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            7.95 - 9.95
+            <a href="https://premiummeatsonline.ca/products/copy-of-aaa-top-sirloin-steak-baseball-cut2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Called in the industry as the "Sushi" steak for its popularity in the Asian cuisine.</p>
+<p>Our well marbled AAA Canadian-raised Flat-Iron steak aged 35 days will bring serious flavor to your plate. Slap on the grill with a bit of seasoning or try it with your favorite marinade or even with some chimichurri sauce.</p>
+<p>A good price point and an awesome value for the price.</p>
+<ul>
+<li><span>100% AAA Canadian beef tenderloin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beef</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>steak</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/10266951815</id>
+      <title>5oz</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/10266951815</id>
+      <title>8oz</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/164208619</id>
+    <published>2013-10-11T10:19:00-04:00</published>
+    <updated>2013-10-11T10:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-top-sirloin-steak-baseball-cut"/>
+    <title>Baseball Steak Top Sirloin AAA &quot;Packed 2&apos;s&quot;</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryAAABasball-2215-Edit-Prt.jpg?v=1609946305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            19.00 - 24.95
+            <a href="https://premiummeatsonline.ca/products/aaa-top-sirloin-steak-baseball-cut">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nicknamed the "Baseball thick Cut." Our center cut Top Sirloin steaks are cut from Canadian-raised AAA beef that's aged for a minimum of 35 days and totally free of hormones or antibiotics.</p>
+<p>These are a true center cut steaks, completely denuded before portioning. Exclusively here at Slipacoff's Premium Meats as you won't find these in any store. Grilled, cast iron seared or even broiled.</p>
+<p>Once you try it, it will always find it's way into your next order with us. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">100% AAA Canadian beef Top Sirloin</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Naturally raised</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/164208619</id>
+      <title>6oz</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/164208619</id>
+      <title>8oz</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/164208619</id>
+      <title>10oz</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158134685</id>
+    <published>2013-09-15T09:12:00-04:00</published>
+    <updated>2013-09-15T09:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-beef-porterhouse-steak"/>
+    <title>Porterhouse Steak AAA</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryAAAPorterhouse-2189-Prt.jpg?v=1609946495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            25.00 - 89.00
+            <a href="https://premiummeatsonline.ca/products/aaa-beef-porterhouse-steak">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From Canadian-raised AAA beef. This masterpiece of a cut is the first slice of our 35 day aged short loins. This bring you the best of both worlds.</p>
+<p>Divided by a T bone on one side you get Tenderloin and the other side the Striploin. This piece will fill up that plate. </p>
+<p><span data-mce-fragment="1">This will bring to you the best of both worlds. This piece will make any meat lover salivate and want to share this cut and live the moment with family or friends</span></p>
+<p>Grilled on the BBQ, indirect heat, cast iron seared or sous-vide.</p>
+<ul>
+<li><span>100% AAA Canadian short loin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158134685</id>
+      <title>20oz</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158134685</id>
+      <title>42oz</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158048483</id>
+    <published>2013-09-14T17:56:00-04:00</published>
+    <updated>2013-09-14T17:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-beef-rib-steak"/>
+    <title>Rib Steak AAA Bone In</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryAAARBoneStake-2187-Prt.jpg?v=1609769376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            18.50 - 27.00
+            <a href="https://premiummeatsonline.ca/products/aaa-beef-rib-steak">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aged for 35 days, these marbled and so flavorful Canadian-Raised AAA rib steak come from our hand selected inventory of bone-in Prime Ribs.</p>
+<p>Grading of a whole individual cattle of beef in the industry comes from the rib which determines its grading. The quintessence of any steak. You get the Eye, the cap and yes a bit of fat.</p>
+<p>Awesome when grilled, cast iron seared or broiled if desired. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158048483</id>
+      <title>10oz</title>
+      <s:price currency="CAD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158048483</id>
+      <title>12oz</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158048483</id>
+      <title>14oz</title>
+      <s:price currency="CAD">23.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158048483</id>
+      <title>16oz</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158017705</id>
+    <published>2013-09-14T14:18:00-04:00</published>
+    <updated>2013-09-14T14:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-top-sirloin-steak-bacon-wrapped"/>
+    <title>Baseball AAA (Bacon Wrapped Packed in 2&apos;s)</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/PMDryAAABasballBaconWrapped-2212-Edit-Prt.jpg?v=1609946180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            23.95 - 26.95
+            <a href="https://premiummeatsonline.ca/products/aaa-top-sirloin-steak-bacon-wrapped">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nicknamed the "Baseball thick Cut." Our center cut bacon wrapped Top Sirloin steaks are cut from Canadian-raised AAA beef that's aged for a minimum of 35 days and totally free of hormones or antibiotics. </span></p>
+<p><span>These are a true center cut steaks, completely denuded before portioning. Exclusively here at Slipacoff's Premium Meats as you won't find these in any store. Grilled, cast iron seared or even broiled. </span></p>
+<p><span>Once you try it, it will always find it's way into your next order with us. </span></p>
+<p><br></p>
+<ul>
+<li><span>100% AAA Canadian beef Top Sirloin</span></li>
+<li><span>Naturally raised</span></li>
+<li><span>Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158017705</id>
+      <title>8oz</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158017705</id>
+      <title>10oz</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://premiummeatsonline.ca/products/158016287</id>
+    <published>2013-09-14T14:08:00-04:00</published>
+    <updated>2013-09-14T14:08:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://premiummeatsonline.ca/products/aaa-new-york-steak"/>
+    <title>Striploin Steak AAA Center Cut</title>
+    <s:type>Steak</s:type>
+    <s:vendor>Slipacoff&apos;s Premium Meats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/3393/products/strip.jpg?v=1441086636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Slipacoff&#39;s Premium Meats<br>
+        <strong>Type: </strong>Steak<br>
+        <strong>Price: </strong>
+            9.00 - 21.95
+            <a href="https://premiummeatsonline.ca/products/aaa-new-york-steak">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">One of our most popular cuts, The Striploin Steak is hand-selected AAA graded beef. We age our Striploins for more than 35 days.</p>
+<p data-mce-fragment="1">Also know as New York Strip, This cut from the loin is one of the three most popular and flavorful steaks you can buy, alongside tenderloin and ribeye. Striploin doesn't have the fat content you might find in a rib steak or ribeye, so if you are looking for something on the leaner side, but still a premium cut of beef, this cut is the way to go.</p>
+<p data-mce-fragment="1">We recommend the grill or cast iron searing for best results. Simple and easy !</p>
+<p data-mce-fragment="1"> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">100% AAA Canadian beef </span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Local &amp; Naturally raised</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Free from hormones and antibiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158016287</id>
+      <title>8oz</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158016287</id>
+      <title>10oz</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158016287</id>
+      <title>12oz</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://premiummeatsonline.ca/products/158016287</id>
+      <title>15 - 16 oz</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
